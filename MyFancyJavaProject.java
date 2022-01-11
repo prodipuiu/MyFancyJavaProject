@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package structural;
 
 
@@ -28,6 +29,8 @@ class Square implements Shape
 }
 
 
+=======
+>>>>>>> Y
 class PatternDecorator implements Shape
 {
 	Shape shape;
